@@ -5,21 +5,51 @@ It includes product pages, cart functionality, and essential pages like About, C
 ---
 
 ## 📂 Project Structure
-my-ecommerce-website
-┣ 📂 images/ # Product & banner images
-┣ 📂 css/ # Stylesheets
-┣ 📂 js/ # JavaScript files
-┣ 📂 pages/ # Extra pages (About, Contact, Blog etc.)
-┣ index.html # Homepage
+📦 my-ecommerce-website
+ ┣ 📂 image/              # All images used in the website
+ ┃ ┣ 📂 about/            # About page images
+ ┃ ┣ 📂 banner/           # Banner images
+ ┃ ┣ 📂 blog/             # Blog images
+ ┃ ┣ 📂 Feature/          # Features icons/images
+ ┃ ┣ 📂 pay/              # Payment-related images
+ ┃ ┣ 📂 people/           # Testimonials/people images
+ ┃ ┣ 📂 Product/          # Product images
+ ┃ ┣ 📜 button.png        # Button icon
+ ┃ ┣ 📜 hero.png          # Hero section banner
+ ┃ ┗ 📜 NOVA.png          # Logo/Icon
+ ┣ 📜 about.html          # About page
+ ┣ 📜 blog.html           # Blog page
+ ┣ 📜 cart.html           # Shopping cart page
+ ┣ 📜 contact.html        # Contact page
+ ┣ 📜 index.html          # Homepage
+ ┣ 📜 shop.html           # Shop/Product listing
+ ┣ 📜 sproduct.html       # Single product page
+ ┣ 📜 script.js           # JavaScript functionality
+ ┣ 📜 style.css           # Stylesheet
+ ┗ 📜 README.md           # Project documentation
+
 
 ---
 
 ## 🚀 Features
-- Responsive homepage with product showcase  
-- Product detail pages  
-- Shopping cart design (Add to Cart button included)  
-- Blog and case studies section  
-- About & Contact pages  
+
+🏠 Homepage with hero banner & featured products
+
+🛒 Shop Page to browse and view products
+
+📄 Product Details Page with "Add to Cart" button
+
+🛍️ Cart Page to manage selected items
+
+✍️ Blog Page to share updates/case studies
+
+📞 Contact Page with location, email, and phone details
+
+ℹ️ About Page to introduce your brand
+
+🎨 Responsive design using CSS Flexbox & Grid
+
+⚡ Interactive buttons and simple JavaScript features
 
 ---
 
@@ -31,11 +61,9 @@ my-ecommerce-website
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your homepage, product page, and cart page here)  
-Example:  
+<img width="1903" height="996" alt="image" src="https://github.com/user-attachments/assets/6dbb6d3d-770c-4c3d-9e9d-c9fd67b494b8" />
 
-![Homepage Screenshot](images/homepage.png)  
-![Product Page Screenshot](images/product.png)  
+ 
 
 ---
 
