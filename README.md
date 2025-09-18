@@ -5,28 +5,30 @@ It includes product pages, cart functionality, and essential pages like About, C
 ---
 
 ## 📂 Project Structure
-📦 my-ecommerce-website
- ┣ 📂 image/              # All images used in the website
- ┃ ┣ 📂 about/            # About page images
- ┃ ┣ 📂 banner/           # Banner images
- ┃ ┣ 📂 blog/             # Blog images
- ┃ ┣ 📂 Feature/          # Features icons/images
- ┃ ┣ 📂 pay/              # Payment-related images
- ┃ ┣ 📂 people/           # Testimonials/people images
- ┃ ┣ 📂 Product/          # Product images
- ┃ ┣ 📜 button.png        # Button icon
- ┃ ┣ 📜 hero.png          # Hero section banner
- ┃ ┗ 📜 NOVA.png          # Logo/Icon
- ┣ 📜 about.html          # About page
- ┣ 📜 blog.html           # Blog page
- ┣ 📜 cart.html           # Shopping cart page
- ┣ 📜 contact.html        # Contact page
- ┣ 📜 index.html          # Homepage
- ┣ 📜 shop.html           # Shop/Product listing
- ┣ 📜 sproduct.html       # Single product page
- ┣ 📜 script.js           # JavaScript functionality
- ┣ 📜 style.css           # Stylesheet
- ┗ 📜 README.md           # Project documentation
+
+📦 my-ecommerce-website  
+ ┣ 📂 image/              # All images used in the website  
+ ┃ ┣ 📂 about/            # About page images  
+ ┃ ┣ 📂 banner/           # Banner images  
+ ┃ ┣ 📂 blog/             # Blog images  
+ ┃ ┣ 📂 Feature/          # Features icons/images  
+ ┃ ┣ 📂 pay/              # Payment-related images  
+ ┃ ┣ 📂 people/           # Testimonials/people images  
+ ┃ ┣ 📂 Product/          # Product images  
+ ┃ ┣ 📜 button.png        # Button icon  
+ ┃ ┣ 📜 hero.png          # Hero section banner  
+ ┃ ┗ 📜 NOVA.png          # Logo/Icon  
+ ┣ 📜 about.html          # About page  
+ ┣ 📜 blog.html           # Blog page  
+ ┣ 📜 cart.html           # Shopping cart page  
+ ┣ 📜 contact.html        # Contact page  
+ ┣ 📜 index.html          # Homepage  
+ ┣ 📜 shop.html           # Shop/Product listing  
+ ┣ 📜 sproduct.html       # Single product page  
+ ┣ 📜 script.js           # JavaScript functionality  
+ ┣ 📜 style.css           # Stylesheet  
+ ┗ 📜 README.md           # Project documentation  
+
 
 
 ---
